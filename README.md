@@ -6,5 +6,5 @@
 ```
 ## Đầu ra: file output.txt
 ```
-87
+84
 ```
